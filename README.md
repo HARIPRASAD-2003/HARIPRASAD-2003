@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HARIPRASAD-2003
-- 👀 I’m interested in python programming
+- 👀 I’m interested in Python programming
 - 🌱 I’m currently learning artificial intelligence with python
 - 💞️ I'm a B.Tech student
 - 📫 How to reach me ...
