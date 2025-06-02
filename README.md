@@ -97,7 +97,7 @@
 - ✅ CCNA 1 – Introduction to Networks – Cisco
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -106,7 +106,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HARIPRASAD-2003&theme=radical&hide_border=true" />
 </p>
 
----
+-
+-->
 
 ### 🧩 Let’s Connect
 
