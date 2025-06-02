@@ -12,12 +12,12 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Final-year B.Tech IT student from **Chennai Institute of Technology** (CGPA: 8.59)
-- 💼 **Software Developer Intern at Autodesk** (July 2024 – Present)
+- 🎓 B.Tech IT student from **Chennai Institute of Technology** (CGPA: 8.59)
+- 💼 **Software Developer Intern at Autodesk** (July 2024 – June 2025)
 - 🌟 Full-Stack Dev with hands-on in React, Node, MongoDB, Docker, and AWS
 - 🧠 Solved **922+ LeetCode problems** with a contest rating of **1722 (Top 11.35%)**
 - 🎯 Actively looking for **full-time roles starting July 2025**, open to remote or hybrid
-- 🧪 Passionate about building products, contributing to open source, and leveling up my skills
+- 🧪 Passionate about building products, contributing to open source, and levelling up my skills
 
 ---
 
@@ -39,7 +39,7 @@
 #### 🔹 Autodesk – Software Developer Intern  
 **Jul 2024 – Present** | Pune, India  
 - Delivered a POC that improved workflow by 40%  
-- Resolved bugs and built features for DataExchange with varios products like Revit, Rhino, Fusion360 etc.
+- Resolved bugs and built features for DataExchange with various products like Revit, Rhino, Fusion360, etc.
 - Tech: **C#, Docker, AWS, SignalR, gRPC, ThinkerCAD, Three.js**
 
 #### 🔹 Nullclass Edtech – Full-Stack Developer Intern  
