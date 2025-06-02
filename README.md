@@ -39,7 +39,7 @@
 #### 🔹 Autodesk – Software Developer Intern  
 **Jul 2024 – Present** | Pune, India  
 - Delivered a POC that improved workflow by 40%  
-- Resolved bugs and built features for Revit, Rhino, Fusion360  
+- Resolved bugs and built features for DataExchange with varios products like Revit, Rhino, Fusion360 etc.
 - Tech: **C#, Docker, AWS, SignalR, gRPC, ThinkerCAD, Three.js**
 
 #### 🔹 Nullclass Edtech – Full-Stack Developer Intern  
