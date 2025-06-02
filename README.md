@@ -12,7 +12,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 B.Tech IT student from **Chennai Institute of Technology** (CGPA: 8.59)
+- 🎓 B.Tech IT **graduate** from **Chennai Institute of Technology** (CGPA: 8.59)
 - 💼 **Software Developer Intern at Autodesk** (July 2024 – June 2025)
 - 🌟 Full-Stack Dev with hands-on in React, Node, MongoDB, Docker, and AWS
 - 🧠 Solved **922+ LeetCode problems** with a contest rating of **1722 (Top 11.35%)**
