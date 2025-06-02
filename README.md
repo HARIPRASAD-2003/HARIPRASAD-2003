@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariprasad R</h1>
-<h3 align="center">Full-Stack Developer | Autodesk Intern | Competitive Programmer | Open to Full-Time Opportunities</h3>
+<h3 align="center">Full-Stack Developer | Autodesk Intern | Software Development Engineer | Competitive Programmer | Open to Full-Time Opportunities</h3>
 
 <p align="center">
   <a href="mailto:hariprasadr.it2025@gmail.com">📧 Email</a> •
